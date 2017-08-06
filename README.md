@@ -1,5 +1,6 @@
 # md-plus
 > A markdown parser and compiler. Built for speed.
+
 [![NPM version][npm-image]][npm-url]
 
 [npm-image]: https://img.shields.io/npm/v/md-plus.svg
