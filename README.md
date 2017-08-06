@@ -10,6 +10,6 @@ npm install md-plus
 
 同时支持用TOC命令生成目录。
 
-在markdown 文件中输入[TOC],实现自动生成目录。
+在markdown 文件中输入```[TOC]```,实现自动生成目录。
 
 
