@@ -1,7 +1,10 @@
 # md-plus
 > A markdown parser and compiler. Built for speed.
 #### 基于marked.js(https://github.com/chjj/marked) 扩展语法。支持 ToC（Table of Contents）实现自动生成目录。
-[![NPM version](https://badge.fury.io/js/marked.png)][badge]
+[![NPM version][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/md-plus.svg
+[npm-url]: https://www.npmjs.com/package/md-plus
 
 # 安装
 ```
