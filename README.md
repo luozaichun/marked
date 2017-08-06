@@ -9,12 +9,10 @@
 #### Based on marked.js(https://github.com/chjj/marked) , but add support for table of content.Table of content is generated from the headings that follow the TOC marker.
 
 # Install 
-```
-Install nodejs
-```
+Install [nodejs](http://nodejs.org)
 Then run command:
 ```
-npm install md-plus
+npm install md-plus --save
 ```
 # Usage
 The library usage is exactly the same as that of marked.
