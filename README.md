@@ -8,7 +8,7 @@
 
 #### 基于marked.js(https://github.com/chjj/marked) 扩展语法。支持 ToC（Table of Contents）实现自动生成目录。
 
-# 安装
+# install 
 ```
 npm install md-plus
 ```
@@ -19,7 +19,7 @@ npm install md-plus
 
 在markdown 文件中输入```[TOC]```,实现自动生成目录。
 
-## License
+# License
 
 Copyright (c) 2011-2014, Christopher Jeffrey. (MIT License)
 
