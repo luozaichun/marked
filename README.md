@@ -6,22 +6,23 @@
 [npm-image]: https://img.shields.io/npm/v/md-plus.svg
 [npm-url]: https://www.npmjs.com/package/md-plus
 
-#### 基于marked.js(https://github.com/chjj/marked) 扩展语法。支持 ToC（Table of Contents）实现自动生成目录。
+#### Based on marked.js(https://github.com/chjj/marked) , but add support for table of content.Table of content is generated from the headings that follow the TOC marker.
 
-# install 
+# Install 
+```
+Install nodejs
+```
+Then run command:
 ```
 npm install md-plus
 ```
 # Usage
-使用方法和marked.js一样。
+The library usage is exactly the same as that of marked.
 
-同时支持用TOC命令生成目录。
+To use the TOC support, do the following:
 
-在markdown 文件中输入```[TOC]```,实现自动生成目录。
-
+ - Insert ```[TOC]``` in the markdown file to generate table of content in the html output.
+ 
 # License
 
-Copyright (c) 2011-2014, Christopher Jeffrey. (MIT License)
-
-See LICENSE for more info.
-
+[MIT](LICENSE)
