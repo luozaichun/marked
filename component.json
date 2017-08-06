@@ -1,7 +1,7 @@
 {
-  "name": "marked",
+  "name": "md-plus",
   "version": "0.3.4",
-  "repo": "chjj/marked",
+  "repo": "luozaichun/md-plus",
   "description": "A markdown parser built for speed",
   "keywords": ["markdown", "markup", "html"],
   "scripts": ["lib/marked.js"],

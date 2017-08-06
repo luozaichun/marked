@@ -1,9 +1,9 @@
 {
-  "name": "marked",
+  "name": "md-plus",
   "version": "0.3.4",
-  "homepage": "https://github.com/chjj/marked",
+  "homepage": "https://github.com/luozaichun/md-plus",
   "authors": [
-    "Christopher Jeffrey <chjjeffrey@gmail.com>"
+    "luozaichun <952467274@qq.com>"
   ],
   "description": "A markdown parser built for speed",
   "keywords": [
