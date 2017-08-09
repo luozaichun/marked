@@ -2,7 +2,7 @@
   "name": "md-plus",
   "description": "A markdown parser built for speed",
   "author": "luozaichun",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "preferGlobal": true,
