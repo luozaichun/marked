@@ -1,6 +1,6 @@
 {
   "name": "md-plus",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "repo": "luozaichun/md-plus",
   "description": "A markdown parser built for speed",
   "keywords": ["markdown", "markup", "html"],
